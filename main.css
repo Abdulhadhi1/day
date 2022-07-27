@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(95, 95, 95);
+}
+.fa{
+    color: rgb(45, 147, 165);
+}
+.box-part{
+    background-color: white;
+    padding: 40px 5px;
+    margin:30px 0px;
+}
+span{
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text{
+    margin: 20px 0px;
+}
+a{
+
+    border-bottom: 1px solid blue;
+}
+.box{
+padding: 60px 0px;
+}
+h4{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
